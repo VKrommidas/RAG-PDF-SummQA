@@ -1,0 +1,22 @@
+
+# Core machine learning
+torch
+transformers
+sentence-transformers
+sentencepiece
+accelerate
+
+# Vector database
+faiss-cpu
+
+# LangChain integrations
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+
+# PDF processing
+pypdf
+PyPDF2
+
+# Utilities
+tqdm
